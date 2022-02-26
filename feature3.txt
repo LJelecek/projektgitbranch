@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Test conflict create file in develop branch
-=======
-This is test confict
->>>>>>> testforconflict
+This is test conflict
